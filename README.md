@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Joel], a passionate [Software develope] based in [Toronto]. Welcome to my GitHub profile!
+I'm Joel, a passionate Software developer based in Toronto. Welcome to my GitHub profile!
 
 ## About Me
 
